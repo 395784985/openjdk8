@@ -13,5 +13,6 @@ The openjdk-8-jre package contains just the Java Runtime Environment. If you wan
 Fedora, Oracle Linux, Red Hat Enterprise Linux, etc.
 On the command line, type:
 
-`$ su -c "yum install java-1.8.0-openjdk"`
+`$ su -c "yum install java-1.8.0-openjdk"`  
+
 The java-1.8.0-openjdk package contains just the Java Runtime Environment. If you want to develop Java programs then install the java-1.8.0-openjdk-devel package.
